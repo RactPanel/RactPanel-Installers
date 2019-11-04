@@ -134,7 +134,7 @@ elif [[ "$OS" = "Ubuntu" || "$OS" = "debian" ]]; then
     
     DB_PCKG="mariadb-server"
     HTTP_PCKG="apache2"
-    PHP_PCKG="apache2-mod-php7"
+    PHP_PCKG="apache2-mod-php5"
     BIND_PCKG="bind9"
 fi
   
